@@ -437,6 +437,7 @@ PLATFORMS
   x86_64-darwin-20
 
 DEPENDENCIES
+  activemerchant
   bootsnap (>= 1.4.4)
   byebug
   capistrano
